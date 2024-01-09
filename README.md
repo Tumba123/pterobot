@@ -1,4 +1,4 @@
-# Full and more comprehensive documentation available here https://wiki.codeprobe.xyz/e/en/PteroBot
+# Full and more comprehensive documentation available here https://wiki.codeprobe.xyz/en/PteroBot
 
 # PteroBot Documentation
 Welcome to the official documentation for PteroBot - Your Discord bot for seamless interaction with the Pterodactyl game panel!
