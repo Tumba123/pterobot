@@ -1,6 +1,8 @@
 # PteroBot Documentation
 Welcome to the official documentation for PteroBot - Your Discord bot for seamless interaction with the Pterodactyl game panel!
 
+# Full and more comprehensive documentation available here https://wiki.codeprobe.xyz/e/en/PteroBot
+
 ## Introduction
 PteroBot is a powerful Discord bot designed to simplify server management on the Pterodactyl game panel. Whether you're a server administrator or a gamer looking for a convenient way to monitor and control your servers, PteroBot has you covered.
 
