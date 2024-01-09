@@ -1,7 +1,5 @@
 discord.py
 requests
-json
 asyncio
-time
 websockets
 websocket-client
