@@ -1,2 +1,6 @@
-discord.py
-pterodactyl.py
+discord
+requests
+websocket-client
+websockets
+asyncio
+websocket
